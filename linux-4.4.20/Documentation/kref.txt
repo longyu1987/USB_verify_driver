@@ -1,4 +1,4 @@
-
+//weitao modify this file by dell user
 krefs allow you to add reference counters to your objects.  If you
 have objects that are used in multiple places and passed around, and
 you don't have refcounts, your code is almost certainly broken.  If
